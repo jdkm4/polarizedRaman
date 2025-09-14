@@ -15,3 +15,5 @@ kin.py: Allows for manual control of kinesis motors. No longer necessary.
 main.py: Allows for manual control of both ELL and kinesis motors. No longer necessary.
 
 rotator.py: An attempt to combine calibrater.py and main.py in such a way that specific configurations of optics can be entered in and the motors will rotate to reach those configurations.
+
+sketch_jun30a.ino: Code for the Arduino which reads off data from the photodetector.
